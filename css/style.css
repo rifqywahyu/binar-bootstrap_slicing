@@ -1,0 +1,210 @@
+body {
+    font-family: Arial;
+    background-color: white;
+    background-image: linear-gradient(to bottom, transparent, white, white, white), url("../assets/background image.jpg");
+    background-repeat: no-repeat;
+}
+
+.background {
+    background-color: white;
+    background-image: linear-gradient(to bottom, transparent, white, white), url("../assets/background image.jpg");
+    background-repeat: no-repeat;
+}
+
+.navbar-purple {
+    background-color: #712bf9;
+}
+
+.nav-custom {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    opacity: 97%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    box-shadow: 0px 0px 10px 0px;
+}
+
+.nav-icon {
+    margin-right: 15px;
+}
+
+.icon-book {
+    margin-right: 7px;
+    margin-bottom: 5px;
+    width: 23px;
+    height: auto;
+}
+
+.link-white {
+    color: #e3d6fd;
+}
+
+.link-white:hover {
+    color: white;
+}
+
+.btn-yellow {
+    background-color: #ffe484;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-yellow:hover {
+    background-color: #ffe484;
+}
+
+.btn-purple {
+    background-color: #712cf9;
+    font-weight: bold;
+    border: none;
+    color: white;
+    width: 250px;
+    height: 60px;
+    font-size: 20px;
+}
+
+.btn-purple:hover {
+    background-color: #6524e7;
+    color: white;
+}
+
+.text-first {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.text-second {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    width: 900px;
+    /* background-color: red; */
+}
+
+.text-third {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 25px;
+    width: 950px;
+}
+
+.text-fourth {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text-fifth {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text-sixth {
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 20px;
+    width: 700px;
+}
+
+.text-seventh-left {
+    margin-top: 50px;
+}
+
+.left-card {
+    font-family: 'Courier New';
+}
+
+.text-seventh-right {
+    margin-top: 50px;
+}
+
+.right-card {
+    overflow: auto;
+    white-space: nowrap;
+    font-family: 'Courier New';
+}
+
+.text-eight {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text-ninth {
+    margin-right: 50px;
+}
+
+.image-first {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.image-second {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.image-third {
+    width: 15px;
+    height: 15px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.image-fourth {
+    width: 15px;
+    height: 15px;
+    margin-left: 5px;
+}
+
+.image-fifth {
+    width: 80px;
+    height: 80px;
+}
+
+.image-sixth {
+    width: 560px;
+    height: 340px;
+}
+
+.image-seventh {
+    width: 560px;
+    height: 400px;
+}
+
+.input-and-button {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.vertical-line {
+    border-left: 1px solid lightgray;
+    height: 470px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    margin-top: 30px;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.footer-h4 {
+    font-weight: bold;
+    color: #464749;
+}
+
+.footer-a {
+    color: #7e828a;
+}
+
+.footer-p {
+    color: #7e828a;
+}
